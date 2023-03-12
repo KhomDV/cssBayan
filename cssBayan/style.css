@@ -63,15 +63,6 @@ h1 {
   justify-content: space-between;
 }
 
-/* .container:hover input,
-.container:hover .acor__label {
-  cursor: pointer;
-  color: #000000;
-}
-.container:hover .acor__label .acor__title_icom {
-  display: block;
-} */
-
 .acor__image {
   width: 25rem;
   display: block;
@@ -106,15 +97,6 @@ h1 {
     padding-top: 1rem;
   }
 }
-
-/* .container .acor__label:hover .acor__title_icom {
-  display: block;
-  transform: rotate(45deg);
-}
-.container .acor__label:hover .acor__image {
-  max-height: 100vh;
-  padding-top: 1rem;
-} */
 
 .container input:checked + .acor__label {
   cursor: pointer;
